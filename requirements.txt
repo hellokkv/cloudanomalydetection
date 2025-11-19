@@ -4,15 +4,11 @@ numpy
 joblib
 matplotlib
 reportlab
-smtplib-client
 email-validator
-base64
-time
 seaborn
-io
-plotly.express
+plotly
 shap
-sklearn
+scikit-learn
 xgboost
 lightgbm
 catboost
