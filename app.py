@@ -225,8 +225,8 @@ email_to = st.text_input("Recipient Email Address")
 
 def send_email(receiver, pdf_bytes, html_text):
 
-    sender = "kish.vish377@gmail.com"
-    password = "evxk dwtk neux xqtj"  
+    sender = "gmail@gmail.com"
+    password = "app_password"  
 
     msg = MIMEMultipart()
     msg["From"] = sender
